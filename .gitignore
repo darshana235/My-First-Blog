@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+basicloop.py
+.gitignore.py
+function.py
+function1.py
+get-pip.py
